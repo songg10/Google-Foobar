@@ -1,5 +1,5 @@
 # Google Foobar Challenge
-I was lucky enough to get invited to join the challenge. The invite appears after I search for the term **python list comprehension**
+I was lucky enough to get invited to join the challenge. The invite appears after I searched for the term **python list comprehension**
 on Google.
 
 | ![invite](img/initial_invite.png) | 
