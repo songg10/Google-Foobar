@@ -31,24 +31,38 @@ Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
 -- Java cases --
+
 Inputs:
-Solution.solution(0)
+
+    Solution.solution(0)
+
 Output:
+
     23571
 
 Inputs:
+
 Solution.solution(3)
+
 Output:
+
     71113
 
 -- Python cases --
+
 Inputs:
-solution.solution(0)
+
+    solution.solution(0)
+
 Output:
+
     23571
 
 Inputs:
-solution.solution(3)
+
+    solution.solution(3)
+
 Output:
+
     71113
 

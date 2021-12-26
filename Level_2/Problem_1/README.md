@@ -28,23 +28,38 @@ Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
 -- Python cases --
+
 Inputs:
+
     solution.solution(3, 2)
+
 Output:
+
     9
 
 Inputs:
+
     solution.solution(5, 10)
+
 Output:
+
     96
 
 -- Java cases --
-Inputs:
-    Solution.solution(3, 2)
-Output:
-    9
 
 Inputs:
-    Solution.solution(5, 10)
+
+    Solution.solution(3, 2)
+
 Output:
+
+    9
+
+
+Inputs:
+
+    Solution.solution(5, 10)
+
+Output:
+
     96
